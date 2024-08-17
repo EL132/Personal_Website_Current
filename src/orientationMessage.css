@@ -1,6 +1,6 @@
 .orientation-message {
     margin-left: -6.9rem;
-    margin-top: -8rem;
+    margin-top: -12rem;
     z-index: 9999; /* Ensure this is on top of everything else */
 }
 

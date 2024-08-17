@@ -32,10 +32,11 @@ export default function Experience() {
         <>
             {!isLandscape ? (
                 <Html>
+                    <color args={['#241a1a']} attach="background" />
                     <div className="orientation-message">
                         <div className="message-content">
                             <img className="rotate-phone" src="./rotate_phone.jpg" alt="rotate phone" />
-                            Please rotate your device to landscape mode.
+                            Please rotate your device to landscape mode or use a laptop (it will be a better experience I promise &#128513;).
                         </div>
                     </div>
                 </Html>
